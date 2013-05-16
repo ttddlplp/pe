@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pebedba-schema/src/main/db/incremental/2013/dev/01&apos; to &apos;01_init&apos;" description="Rename resource &apos;01&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/db/incremental/2013/dev/01" name="01_init" stamp="1368700826689" updateReferences="true"/>
+</session>

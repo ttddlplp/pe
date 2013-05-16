@@ -1,0 +1,67 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.gzeng.pe</groupId>
+  <artifactId>schema-common</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>Common Schema Config</name>
+
+    <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<!-- default schema username and password -->
+    <db.userName>SCHEDDBA</db.userName>
+    <db.password>SCHEDDBA</db.password>
+    
+    <!-- qualifiers that we want to exclude by default -->
+    <dbmaintain.excluded.qualifiers></dbmaintain.excluded.qualifiers>
+
+    <!-- empty in this schema --> 
+    <dbmaintain.additional.locations>,${basedir}/src/test/db/</dbmaintain.additional.locations>
+    </properties>
+    
+        <build>
+        <plugins>
+            <plugin>
+                <groupId>org.dbmaintain</groupId>
+                <artifactId>dbmaintain-maven-plugin</artifactId>
+                <version>2.4.6</version>
+                <configuration>
+                    <scriptLocations>${basedir}/src/main/db/${dbmaintain.additional.locations}</scriptLocations>
+                    <autoCreateDbMaintainScriptsTable>true</autoCreateDbMaintainScriptsTable>
+                    <qualifiers>plsql,triggers,testconfig,testharness,schema,data,backout,unauthorised,authorised,backedout,development,grant,testdata</qualifiers>
+                    <excludedQualifiers>backout${dbmaintain.excluded.qualifiers}</excludedQualifiers>
+                    <patchQualifiers>cr,testdata</patchQualifiers>
+                    <allowOutOfSequenceExecutionOfPatches>true</allowOutOfSequenceExecutionOfPatches>
+                    <databases>
+                        <database>
+                            <driverClassName>org.postgresql.Driver</driverClassName>
+                            <userName>${db.userName}</userName>
+                            <password>${db.password}</password>
+                            <url>${db.url}</url>
+                            <schemaNames>scheddba</schemaNames>
+                        </database>
+                    </databases>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>oracle</groupId>
+                        <artifactId>ojdbc6</artifactId>
+                        <version>11.2.0.3</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+        </plugins>
+    </build> 
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>

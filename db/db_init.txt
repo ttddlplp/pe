@@ -1,0 +1,8 @@
+https://help.ubuntu.com/10.04/serverguide/postgresql.html
+
+create database dev01;
+\connect dev01;
+create schema pededba;
+create user pededba;
+alter schema pededba owner to pededba;
+alter user pededba with encrypted password 'pededba';

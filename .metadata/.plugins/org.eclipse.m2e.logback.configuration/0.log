@@ -1,0 +1,292 @@
+2013-05-16 08:44:46,752 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-16 08:44:47,251 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-16 08:47:40,176 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 173428 ms
+2013-05-16 10:39:39,029 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/gaoxiang/personal/git/pe-schema-common/pom.xml
+2013-05-16 10:39:44,106 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:39:49,074 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-schema-common/src/main/java
+2013-05-16 10:39:49,075 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-schema-common/src/test/java
+2013-05-16 10:39:49,676 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:39:53,924 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 14 sec
+2013-05-16 10:39:55,273 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:39:55,650 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:39:55,651 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:39:55,653 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:39:55,653 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:39:56,757 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:39:57,768 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:39:57,769 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:39:57,770 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:39:57,770 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:40:47,409 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:41:37,041 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:42:11,753 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-16 10:42:11,763 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:42:11,787 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-16 10:42:40,558 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:42:49,812 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:42:49,964 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:42:49,964 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:42:49,966 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:42:49,966 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:43:18,974 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:43:18,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:43:18,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:43:18,990 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:43:18,990 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:43:44,424 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:43:44,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:43:44,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:43:44,462 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:43:44,462 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:43:48,394 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:43:48,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:43:48,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:43:48,411 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:43:48,411 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:44:29,796 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-schema-common/pom.xml.
+2013-05-16 10:44:29,809 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:44:29,810 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/main/resources
+2013-05-16 10:44:29,810 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:44:29,811 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/pe-schema-common/src/test/resources
+2013-05-16 10:46:38,783 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-16 10:46:48,403 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-schema-common
+2013-05-16 10:46:48,403 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 10:48:38,520 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2013-05-16 10:48:38,520 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-05-16 10:48:38,521 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-05-16 10:48:38,522 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-05-16 10:48:40,804 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 10:48:40,937 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /schema-common/src/main/java
+2013-05-16 10:48:40,938 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /schema-common/src/test/java
+2013-05-16 10:48:40,991 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2013-05-16 10:48:41,000 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-16 10:48:41,000 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-16 10:48:41,322 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 10:48:41,347 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:48:41,347 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 10:48:41,349 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:48:41,349 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 10:48:41,752 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 10:48:41,786 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 10:48:42,451 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:48:42,451 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 10:48:42,452 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:48:42,452 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 10:48:48,602 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-16 10:49:06,971 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 10:49:16,835 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 10:49:16,835 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 10:58:09,723 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 10:58:10,334 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:58:10,334 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 10:58:10,336 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 10:58:10,336 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:00:48,602 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:00:48,683 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:00:48,683 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:00:48,684 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:00:48,685 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:00:50,131 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:00:50,132 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:00:50,134 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:00:50,134 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:01:09,683 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:01:09,707 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:01:09,708 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:01:09,710 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:01:09,727 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:03:09,924 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:03:09,943 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:03:09,944 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:03:09,945 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:03:09,945 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:03:23,542 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:03:23,631 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 11:03:23,631 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:05:46,747 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:05:46,829 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:05:46,831 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:05:46,831 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:06:12,913 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:06:13,054 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:06:14,874 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:06:14,874 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:06:14,876 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:06:14,876 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:06:16,086 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 11:06:16,086 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:07:37,946 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:07:38,250 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:07:38,251 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:07:38,253 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:07:38,253 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:07:46,523 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:07:46,601 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 11:07:46,601 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:07:59,667 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:08:00,111 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:08:00,111 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:08:00,113 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:08:00,114 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:09:44,528 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:09:44,528 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/main/resources
+2013-05-16 11:09:44,529 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:09:44,530 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gaoxiang/personal/git/db/pe-schema-common/src/test/resources
+2013-05-16 11:10:14,364 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:10:14,450 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 11:10:14,450 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:20:24,138 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pebedba-schema/pom.xml.
+2013-05-16 11:20:24,363 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/main/java
+2013-05-16 11:20:24,364 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/main/resources
+2013-05-16 11:20:24,364 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/test/java
+2013-05-16 11:20:24,365 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/test/resources
+2013-05-16 11:20:24,783 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pebedba-schema/pom.xml.
+2013-05-16 11:20:24,830 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:20:24,862 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:20:24,863 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:20:24,864 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:20:25,656 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pebedba-schema/pom.xml.
+2013-05-16 11:20:25,914 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:20:25,935 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:20:25,937 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:20:25,938 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:21:04,989 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-16 11:21:05,000 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pebedba-schema/pom.xml.
+2013-05-16 11:21:06,356 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:21:06,357 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:21:06,358 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:21:06,358 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:21:09,656 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:21:09,745 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 11:21:09,746 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:24:42,301 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pebedba-schema/pom.xml.
+2013-05-16 11:24:42,317 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:24:42,318 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:24:42,318 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:24:42,319 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:25:03,376 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pebedba-schema/pom.xml.
+2013-05-16 11:25:03,512 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:25:03,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:25:03,514 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-16 11:25:03,514 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:30:39,625 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:30:39,754 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/main/java
+2013-05-16 11:30:39,754 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/main/resources
+2013-05-16 11:30:39,755 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/test/java
+2013-05-16 11:30:39,755 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/test/resources
+2013-05-16 11:30:39,808 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2013-05-16 11:30:39,814 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-16 11:30:39,814 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-16 11:30:40,013 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:30:40,063 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:30:40,064 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:30:40,065 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:30:40,065 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:30:40,664 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:30:40,694 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:30:41,133 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:30:41,133 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:30:41,134 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:30:41,135 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:30:45,286 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-16 11:30:52,141 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pebedba-schema
+2013-05-16 11:30:52,141 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:31:34,364 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:31:34,511 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:31:34,512 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:31:34,514 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:31:34,514 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:31:35,688 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:31:35,689 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:31:35,691 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:31:35,691 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:32:03,266 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:32:03,285 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:32:03,285 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:32:03,286 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:32:03,286 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:32:48,461 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 11:32:48,498 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:32:48,498 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:32:48,499 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:32:48,499 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:32:54,658 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:32:54,750 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pebedba-schema
+2013-05-16 11:32:54,750 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:37:14,265 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-16 11:37:14,347 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-16 11:37:14,347 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-16 11:38:25,401 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:25,401 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:25,403 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:25,403 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:34,491 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:34,492 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:34,494 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:34,494 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:42,545 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:42,546 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:42,547 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:42,547 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:56,430 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:56,431 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:38:56,432 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:38:56,432 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:39:43,147 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:39:43,147 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:39:43,148 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:39:43,148 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:39:56,882 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:39:56,882 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:39:56,884 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:39:56,884 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:40:04,631 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:40:04,632 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:40:04,633 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:40:04,633 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:40:26,850 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:40:26,850 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:40:26,854 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:40:26,854 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:59:36,209 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:59:36,264 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:59:36,266 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:59:36,266 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:59:54,665 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:59:54,665 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 11:59:54,667 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 11:59:54,667 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 12:01:30,299 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 12:01:30,299 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 12:01:30,302 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 12:01:30,304 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 12:09:37,289 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-16 12:09:37,669 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-16 12:09:53,573 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 16287 ms
+2013-05-16 12:24:18,051 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 12:24:18,072 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 12:24:18,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 12:24:18,075 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:05:07,002 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:05:07,059 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:05:07,061 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:05:07,062 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:11:34,285 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 13:11:35,281 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:11:35,282 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:11:35,333 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:11:35,400 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:11:55,136 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 13:11:55,187 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:11:55,187 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:11:55,188 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:11:55,188 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:12:21,238 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-16 13:12:21,262 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:12:21,263 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:12:21,264 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:12:21,264 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:12:45,404 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:12:45,404 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-16 13:12:45,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-16 13:12:45,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
