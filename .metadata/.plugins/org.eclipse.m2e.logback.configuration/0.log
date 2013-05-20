@@ -290,3 +290,877 @@
 2013-05-16 13:12:45,404 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2013-05-16 13:12:45,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2013-05-16 13:12:45,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:42:07,345 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-17 09:42:08,319 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 09:42:48,014 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 40671 ms
+2013-05-17 09:54:36,807 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-webservice/pom.xml.
+2013-05-17 09:54:41,991 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 09:54:42,016 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-webservice/pom.xml.
+2013-05-17 09:54:42,017 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 09:54:42,019 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 09:54:42,019 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 09:54:42,921 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-webservice/pom.xml.
+2013-05-17 09:54:43,156 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:54:43,157 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:54:43,159 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:54:43,160 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:54:44,245 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-webservice/pom.xml.
+2013-05-17 09:54:45,262 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:54:45,265 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:54:45,268 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:54:45,268 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:55:05,378 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2013-05-17 09:55:05,378 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-05-17 09:55:05,379 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-05-17 09:55:05,380 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-05-17 09:55:07,984 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 09:55:08,097 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 09:55:08,097 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 09:55:08,097 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 09:55:08,097 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 09:55:08,146 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2013-05-17 09:55:08,240 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 09:55:08,240 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 09:55:08,430 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 09:55:08,459 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:55:08,459 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:55:08,461 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:55:08,461 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:55:08,791 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 09:55:08,826 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 09:55:09,526 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:55:09,527 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 09:55:09,529 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 09:55:09,530 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:28,400 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:29:28,434 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:28,434 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:28,435 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:28,435 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:29,635 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:29,635 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:29,636 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:29,637 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:34,366 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:29:34,450 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:29:34,598 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2013-05-17 10:29:34,603 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2013-05-17 10:29:34,636 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:29:34,648 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2013-05-17 10:29:34,648 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2013-05-17 10:29:34,672 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:29:34,683 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2013-05-17 10:29:34,683 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2013-05-17 10:29:34,848 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:29:35,136 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:35,136 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:35,137 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:35,137 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:35,153 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:29:35,154 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:35,155 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:29:35,155 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:36,317 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:36,318 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:36,319 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:36,319 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:37,819 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:29:37,883 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:37,883 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:37,884 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:29:37,884 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:29:52,607 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-17 10:30:00,025 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 10:30:00,025 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 10:30:32,871 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:30:33,037 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:30:33,038 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:30:33,039 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:30:33,039 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:31:00,053 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:31:00,226 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:31:00,226 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:31:00,228 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:31:00,229 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:33:57,626 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:33:57,627 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:33:57,629 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:33:57,629 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:34:14,152 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:34:14,153 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:34:14,155 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:34:14,155 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:34:36,451 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:34:36,452 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:34:36,454 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:34:36,455 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:34:44,400 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:34:44,400 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:34:44,403 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:34:44,403 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:35:22,138 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:35:22,140 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:35:22,142 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:35:22,142 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:35:34,600 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:35:34,601 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:35:34,602 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:35:34,602 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:36:02,951 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:36:02,952 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:36:02,954 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:36:02,955 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:36:38,275 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:36:38,283 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:36:39,531 [New I/O client worker #5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2013-05-17 10:36:39,531 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/junit/junit/4.11/junit-4.11.jar
+2013-05-17 10:36:39,544 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:36:39,775 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/junit/junit/4.11/junit-4.11.jar
+2013-05-17 10:36:39,777 [New I/O client worker #6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2013-05-17 10:36:39,812 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:36:39,813 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:36:39,814 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:36:39,814 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:36:49,703 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 10:36:49,792 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 10:36:49,792 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 10:37:24,984 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:37:25,058 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:37:25,058 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:37:25,059 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:37:25,060 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:37:26,241 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:37:26,242 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:37:26,243 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:37:26,243 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:37:29,580 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 10:37:29,672 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 10:37:29,672 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 10:38:41,326 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:38:41,477 [pool-12-thread-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:38:41,594 [main] ERROR o.e.r.i.r.repo.ModelRepositoryIndex - Failed to open search index.
+org.apache.lucene.index.IndexNotFoundException: no segments* file found in org.apache.lucene.store.MMapDirectory@/home/gaoxiang/personal/git/.metadata/.plugins/org.eclipse.recommenders.rcp/index lockFactory=org.apache.lucene.store.NativeFSLockFactory@3ac9476f: files: []
+	at org.apache.lucene.index.SegmentInfos$FindSegmentsFile.run(SegmentInfos.java:712) ~[org.apache.lucene.core_3.5.0.v20120319-2345.jar:3.5.0 1204988 - simon - 2011-11-22 14:46:51]
+	at org.apache.lucene.index.DirectoryReader.open(DirectoryReader.java:75) ~[org.apache.lucene.core_3.5.0.v20120319-2345.jar:3.5.0 1204988 - simon - 2011-11-22 14:46:51]
+	at org.apache.lucene.index.IndexReader.open(IndexReader.java:462) ~[org.apache.lucene.core_3.5.0.v20120319-2345.jar:3.5.0 1204988 - simon - 2011-11-22 14:46:51]
+	at org.apache.lucene.index.IndexReader.open(IndexReader.java:308) ~[org.apache.lucene.core_3.5.0.v20120319-2345.jar:3.5.0 1204988 - simon - 2011-11-22 14:46:51]
+	at org.eclipse.recommenders.internal.rcp.repo.ModelRepositoryIndex.open(ModelRepositoryIndex.java:64) ~[org.eclipse.recommenders.rcp_1.0.0.v20120914-1432-b175.jar:na]
+	at org.eclipse.recommenders.internal.rcp.wiring.RecommendersModule$ServicesInitializer.<init>(RecommendersModule.java:365) [org.eclipse.recommenders.rcp_1.0.0.v20120914-1432-b175.jar:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [na:1.6.0_27]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) [na:1.6.0_27]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [na:1.6.0_27]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532) [na:1.6.0_27]
+	at com.google.inject.internal.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:85) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:85) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:254) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:46) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1031) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.Scopes$1$1.get(Scopes.java:65) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:40) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InternalInjectorCreator$1.call(InternalInjectorCreator.java:204) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InternalInjectorCreator$1.call(InternalInjectorCreator.java:198) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1024) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InternalInjectorCreator.loadEagerSingletons(InternalInjectorCreator.java:198) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InternalInjectorCreator.injectDynamically(InternalInjectorCreator.java:179) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.internal.InternalInjectorCreator.build(InternalInjectorCreator.java:109) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.Guice.createInjector(Guice.java:95) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at com.google.inject.Guice.createInjector(Guice.java:72) [com.google.inject_3.0.0.v201203062045.jar:na]
+	at org.eclipse.recommenders.injection.InjectionService.getInjector(InjectionService.java:47) [org.eclipse.recommenders.injection_1.0.0.v20120914-1432-b175.jar:na]
+	at org.eclipse.recommenders.injection.ExtensionFactory.<init>(ExtensionFactory.java:28) [org.eclipse.recommenders.injection_1.0.0.v20120914-1432-b175.jar:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [na:1.6.0_27]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) [na:1.6.0_27]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [na:1.6.0_27]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532) [na:1.6.0_27]
+	at java.lang.Class.newInstance0(Class.java:374) [na:1.6.0_27]
+	at java.lang.Class.newInstance(Class.java:327) [na:1.6.0_27]
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184) [org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar:na]
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905) [org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar:na]
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243) [org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar:na]
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55) [org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar:na]
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.createComputer(CompletionProposalComputerDescriptor.java:308) [org.eclipse.jdt.ui_3.8.0.v20120524-1551.jar:na]
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.getComputer(CompletionProposalComputerDescriptor.java:275) [org.eclipse.jdt.ui_3.8.0.v20120524-1551.jar:na]
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.sessionStarted(CompletionProposalComputerDescriptor.java:418) [org.eclipse.jdt.ui_3.8.0.v20120524-1551.jar:na]
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.sessionStarted(CompletionProposalCategory.java:379) [org.eclipse.jdt.ui_3.8.0.v20120524-1551.jar:na]
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor$CompletionListener.assistSessionStarted(ContentAssistProcessor.java:117) [org.eclipse.jdt.ui_3.8.0.v20120524-1551.jar:na]
+	at org.eclipse.jface.text.contentassist.ContentAssistant.fireSessionBeginEvent(ContentAssistant.java:2221) [org.eclipse.jface.text_3.8.1.v20120828-155502.jar:na]
+	at org.eclipse.jface.text.contentassist.ContentAssistant.prepareToShowCompletions(ContentAssistant.java:1696) [org.eclipse.jface.text_3.8.1.v20120828-155502.jar:na]
+	at org.eclipse.jface.text.contentassist.ContentAssistant.access$6(ContentAssistant.java:1687) [org.eclipse.jface.text_3.8.1.v20120828-155502.jar:na]
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:376) [org.eclipse.jface.text_3.8.1.v20120828-155502.jar:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.gtk.linux.x86_64_3.100.1.v4234e.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135) [org.eclipse.swt.gtk.linux.x86_64_3.100.1.v4234e.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3529) [org.eclipse.swt.gtk.linux.x86_64_3.100.1.v4234e.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3182) [org.eclipse.swt.gtk.linux.x86_64_3.100.1.v4234e.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1029) [org.eclipse.e4.ui.workbench.swt_0.10.2.v20120802-184737.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20120521-2329.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:923) [org.eclipse.e4.ui.workbench.swt_0.10.2.v20120802-184737.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86) [org.eclipse.e4.ui.workbench_0.10.3.v20120822-140642.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588) [org.eclipse.ui.workbench_3.103.1.v20120906-120042.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20120521-2329.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543) [org.eclipse.ui.workbench_3.103.1.v20120906-120042.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149) [org.eclipse.ui.workbench_3.103.1.v20120906-120042.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.400.v20120523-1955.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20120522-1841.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.8.1.v20120830-144521.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.8.1.v20120830-144521.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353) [org.eclipse.osgi_3.8.1.v20120830-144521.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180) [org.eclipse.osgi_3.8.1.v20120830-144521.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.6.0_27]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.6.0_27]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.6.0_27]
+	at java.lang.reflect.Method.invoke(Method.java:616) ~[na:1.6.0_27]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+2013-05-17 10:38:42,928 [pool-15-thread-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:38:51,201 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:38:51,201 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:38:51,202 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:38:51,202 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:38:52,213 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:38:52,214 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:38:52,216 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:38:52,217 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:38:57,622 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:38:57,623 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:38:57,624 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:38:57,625 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:39:20,041 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:39:20,042 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:39:20,044 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:39:20,044 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:39:21,055 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:39:21,055 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:39:21,056 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:39:21,057 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:44:46,367 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:44:46,543 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:44:46,543 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:44:46,544 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:44:46,544 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:44:59,267 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 10:44:59,292 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:44:59,326 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 10:44:59,326 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 10:44:59,326 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 10:44:59,327 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 10:44:59,382 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 10:44:59,607 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:44:59,654 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:44:59,654 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:44:59,656 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:44:59,657 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:12,310 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 10:45:12,332 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-17 10:45:12,343 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:12,410 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:12,433 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/main/java
+2013-05-17 10:45:12,433 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/main/resources
+2013-05-17 10:45:12,433 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/test/java
+2013-05-17 10:45:12,433 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/test/resources
+2013-05-17 10:45:12,482 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 10:45:12,614 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:12,631 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:12,635 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:12,637 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:12,638 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:22,855 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-17 10:45:22,866 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:32,811 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:32,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:32,813 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:32,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:33,884 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:33,900 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:33,900 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:33,901 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:33,901 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:40,772 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 10:45:40,794 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-17 10:45:40,806 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:40,836 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:40,855 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/main/java
+2013-05-17 10:45:40,855 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/main/resources
+2013-05-17 10:45:40,855 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pebedba-schema/src/test/java
+2013-05-17 10:45:40,855 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pebedba-schema/src/test/resources
+2013-05-17 10:45:40,905 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 10:45:41,047 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:45:41,069 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:41,069 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:41,070 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:45:41,071 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:45:53,779 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 10:45:53,864 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/db/pe-schema-common
+2013-05-17 10:45:53,864 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 10:46:26,734 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-17 10:46:26,746 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 10:46:55,063 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:46:55,063 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:46:55,064 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:46:55,064 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:46:55,070 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:46:55,070 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:46:55,071 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 10:46:55,071 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:46:58,456 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:46:58,483 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:46:58,484 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:46:58,485 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:46:58,485 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:47:10,289 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 10:47:10,310 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:47:10,344 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 10:47:10,344 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 10:47:10,344 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 10:47:10,344 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 10:47:10,399 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 10:47:10,560 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 10:47:10,594 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:47:10,595 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:47:10,596 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 10:47:10,596 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 10:52:43,770 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-17 10:52:43,946 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 10:52:56,670 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 12902 ms
+2013-05-17 11:31:28,771 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-17 11:31:28,824 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 11:31:34,054 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 5285 ms
+2013-05-17 11:41:48,839 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 11:41:49,423 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:41:49,447 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:41:49,450 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:41:49,450 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:41:49,536 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 11:41:49,575 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:41:49,575 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:41:49,576 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:41:49,577 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:41:49,775 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-17 11:41:49,791 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 11:41:50,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:41:50,909 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:41:50,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:41:50,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:01,139 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 11:42:01,188 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:42:01,189 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:01,191 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:42:01,191 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:19,847 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 11:42:19,878 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:42:19,878 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:19,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:42:19,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:30,221 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.gzeng.pe:schema-common:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pe-schema-common/pom.xml.
+2013-05-17 11:42:30,235 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pebedba-schema:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/db/pebedba-schema/pom.xml.
+2013-05-17 11:42:31,472 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:42:31,472 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:31,473 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-17 11:42:31,473 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:42:39,650 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 11:42:39,790 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 11:42:39,790 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 11:49:12,015 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 11:49:13,370 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:49:13,371 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:49:13,372 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:49:13,373 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:49:14,461 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:49:14,462 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:49:14,466 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:49:14,467 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:50:26,838 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 11:50:29,415 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 11:50:29,415 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 11:50:29,570 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:50:29,570 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 11:50:29,571 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 11:50:29,572 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:00:41,591 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:00:41,592 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:00:41,593 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:00:41,593 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:00:58,516 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:00:58,517 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:00:58,518 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:00:58,518 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:04,374 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:04,375 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:04,376 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:04,376 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:05,388 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:05,389 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:05,391 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:05,392 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:28,722 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:28,723 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:28,724 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:28,724 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:35,790 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:35,791 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:35,792 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:35,792 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:54,824 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:54,825 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:02:54,826 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:02:54,827 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:03:55,353 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:03:55,353 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:03:55,356 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:03:55,356 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:04:13,424 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:04:13,425 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:04:13,427 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:04:13,428 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:04:21,281 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:04:21,282 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:04:21,283 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:04:21,284 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:08:56,118 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:08:56,118 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:08:56,120 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:08:56,120 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:10:32,304 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:10:32,305 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 12:10:32,307 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 12:10:32,307 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:45:24,902 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:45:24,903 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:45:24,904 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:45:24,905 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:45:56,629 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:45:56,851 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:45:56,852 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:45:56,853 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:45:56,853 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:45:58,046 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:45:58,047 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:45:58,049 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:45:58,050 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:46:09,275 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:46:09,329 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:46:09,329 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:46:09,330 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:46:09,330 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:46:10,505 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:46:10,506 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:46:10,507 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:46:10,508 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:46:17,265 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 13:46:17,363 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 13:46:17,363 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 13:48:35,495 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:48:35,664 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:48:35,665 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:48:35,666 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:48:35,666 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:48:51,653 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:48:51,820 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:48:51,820 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:48:51,821 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:48:51,821 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:48:57,341 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:48:57,507 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:48:57,508 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:48:57,510 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:48:57,510 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:50:35,728 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:50:35,729 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:50:35,730 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:50:35,730 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:51:01,001 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:51:01,002 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:51:01,004 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:51:01,004 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:56:45,126 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 13:56:45,216 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 13:56:45,216 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 13:58:45,202 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:58:45,271 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:58:46,418 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.pom
+2013-05-17 13:58:46,425 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:58:46,744 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.pom
+2013-05-17 13:58:46,747 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:58:46,748 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:58:47,799 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.pom
+2013-05-17 13:58:47,803 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:58:48,048 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.pom
+2013-05-17 13:58:48,051 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:58:48,057 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:58:48,962 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar
+2013-05-17 13:58:48,968 [New I/O client worker #7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.jar
+2013-05-17 13:58:48,974 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:58:49,104 [New I/O client worker #8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.jar
+2013-05-17 13:58:49,150 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar
+2013-05-17 13:58:49,339 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:58:49,339 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:58:49,340 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:58:49,340 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:22,109 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:59:22,123 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:22,124 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:22,124 [Worker-28] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:59:23,283 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.pom
+2013-05-17 13:59:23,288 [Worker-28] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:59:23,513 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.pom
+2013-05-17 13:59:23,515 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:23,521 [Worker-28] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:59:24,432 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar
+2013-05-17 13:59:24,437 [Worker-28] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 13:59:24,550 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar
+2013-05-17 13:59:24,594 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:24,594 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:24,595 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:24,596 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:26,879 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:59:26,896 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:26,897 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:26,898 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:26,933 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:26,933 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:26,934 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:26,935 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:34,025 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:59:34,040 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:34,041 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:34,042 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:34,076 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:34,076 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:34,077 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:34,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:53,867 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 13:59:53,891 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:59:53,906 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:53,907 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:53,908 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:53,945 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 13:59:53,946 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 13:59:53,946 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 13:59:53,946 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 13:59:54,013 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 13:59:54,201 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 13:59:54,214 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:54,215 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:54,216 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17.1 is missing, no dependency information available
+2013-05-17 13:59:54,247 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:54,248 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 13:59:54,250 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 13:59:54,250 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:00:08,156 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 14:00:08,263 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:00:08,263 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 14:00:32,498 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:00:32,512 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:33,518 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:33,687 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17 is missing, no dependency information available
+2013-05-17 14:00:33,689 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:34,639 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-server/1.17/jersey-server-1.17.pom
+2013-05-17 14:00:34,654 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:34,934 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-server/1.17/jersey-server-1.17.pom
+2013-05-17 14:00:34,937 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17 is missing, no dependency information available
+2013-05-17 14:00:34,938 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:35,876 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:36,116 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17 is missing, no dependency information available
+2013-05-17 14:00:36,122 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:37,265 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 14:00:37,321 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-server/1.17/jersey-server-1.17.jar
+2013-05-17 14:00:38,042 [New I/O client worker #19-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/com/sun/jersey/jersey-core/1.17/jersey-core-1.17.jar
+2013-05-17 14:00:38,049 [Worker-26] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:00:38,439 [New I/O client worker #20-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-server/1.17/jersey-server-1.17.jar
+2013-05-17 14:00:38,534 [New I/O client worker #20-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven/com/sun/jersey/jersey-core/1.17/jersey-core-1.17.jar
+2013-05-17 14:00:38,572 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:00:38,573 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:00:38,574 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:00:38,574 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:00:38,673 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:00:38,674 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 14:01:03,752 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:01:03,771 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17 is missing, no dependency information available
+2013-05-17 14:01:03,772 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17 is missing, no dependency information available
+2013-05-17 14:01:03,780 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17 is missing, no dependency information available
+2013-05-17 14:01:03,813 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:01:03,813 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:01:03,814 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:01:03,814 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:01:12,498 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-17 14:01:12,607 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:01:12,607 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 14:10:40,051 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:10:40,051 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml install
+2013-05-17 14:10:41,593 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:10:41,594 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:10:41,596 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:10:41,597 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:10:46,420 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:10:46,433 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17 is missing, no dependency information available
+2013-05-17 14:10:46,433 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17 is missing, no dependency information available
+2013-05-17 14:10:46,434 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17 is missing, no dependency information available
+2013-05-17 14:10:46,472 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:10:46,472 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:10:46,473 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:10:46,473 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:10:54,153 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:10:54,165 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.17.1 is missing, no dependency information available
+2013-05-17 14:10:54,166 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:1.17.1 is missing, no dependency information available
+2013-05-17 14:10:54,166 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-core:jar:1.17.1 is missing, no dependency information available
+2013-05-17 14:10:54,197 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:10:54,199 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:10:54,200 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:10:54,200 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:11:12,616 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-17 14:16:20,357 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:16:20,357 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 14:17:09,350 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 14:17:09,373 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:17:09,523 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 14:17:09,523 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 14:17:09,523 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 14:17:09,523 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 14:17:09,583 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 14:17:09,805 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:17:09,806 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:17:09,808 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:17:09,809 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:17:51,688 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:17:51,688 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 14:26:11,635 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:26:11,636 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:26:11,638 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:26:11,639 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:29:10,058 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:29:10,234 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:29:10,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:29:10,235 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:29:10,235 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:30:06,881 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:30:06,882 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:30:06,883 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:30:06,883 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:30:16,036 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/gaoxiang/personal/git/pe-backend/pe-webservice
+2013-05-17 14:30:16,036 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /home/gaoxiang/.m2/settings.xml clean install
+2013-05-17 14:32:11,184 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:32:11,199 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:12,540 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.pom
+2013-05-17 14:32:12,544 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:13,568 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.pom
+2013-05-17 14:32:13,570 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.pom
+2013-05-17 14:32:13,706 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:14,631 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/containers/project/2.0-rc1/project-2.0-rc1.pom
+2013-05-17 14:32:14,635 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:15,404 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/containers/project/2.0-rc1/project-2.0-rc1.pom
+2013-05-17 14:32:15,405 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/containers/project/2.0-rc1/project-2.0-rc1.pom
+2013-05-17 14:32:15,546 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:16,447 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/project/2.0-rc1/project-2.0-rc1.pom
+2013-05-17 14:32:16,452 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:17,214 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/project/2.0-rc1/project-2.0-rc1.pom
+2013-05-17 14:32:17,679 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/project/2.0-rc1/project-2.0-rc1.pom
+2013-05-17 14:32:17,821 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:18,721 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2013-05-17 14:32:18,726 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:19,456 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2013-05-17 14:32:19,457 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2013-05-17 14:32:19,589 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:20,507 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-bom/2.1.78/hk2-bom-2.1.78.pom
+2013-05-17 14:32:20,513 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:21,264 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-bom/2.1.78/hk2-bom-2.1.78.pom
+2013-05-17 14:32:21,483 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-bom/2.1.78/hk2-bom-2.1.78.pom
+2013-05-17 14:32:21,631 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:22,561 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-parent/2.1.78/hk2-parent-2.1.78.pom
+2013-05-17 14:32:22,569 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:23,321 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-parent/2.1.78/hk2-parent-2.1.78.pom
+2013-05-17 14:32:23,543 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-parent/2.1.78/hk2-parent-2.1.78.pom
+2013-05-17 14:32:23,685 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:24,616 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.pom
+2013-05-17 14:32:24,621 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:25,480 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.pom
+2013-05-17 14:32:25,481 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.pom
+2013-05-17 14:32:25,631 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:26,549 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.pom
+2013-05-17 14:32:26,554 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:27,438 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.pom
+2013-05-17 14:32:27,439 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.pom
+2013-05-17 14:32:27,576 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:28,496 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.pom
+2013-05-17 14:32:28,501 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:29,232 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.pom
+2013-05-17 14:32:29,455 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.pom
+2013-05-17 14:32:29,584 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:30,520 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:31,253 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:32,165 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.pom
+2013-05-17 14:32:32,169 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:32,912 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.pom
+2013-05-17 14:32:33,063 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.pom
+2013-05-17 14:32:33,202 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:34,118 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.pom
+2013-05-17 14:32:34,122 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:34,867 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.pom
+2013-05-17 14:32:34,868 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.pom
+2013-05-17 14:32:35,005 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:35,917 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-public/2.1.78/hk2-public-2.1.78.pom
+2013-05-17 14:32:35,921 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:36,677 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-public/2.1.78/hk2-public-2.1.78.pom
+2013-05-17 14:32:36,678 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-public/2.1.78/hk2-public-2.1.78.pom
+2013-05-17 14:32:36,825 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:37,783 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2013-05-17 14:32:37,797 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:38,530 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2013-05-17 14:32:38,535 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:38,832 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2013-05-17 14:32:38,833 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2013-05-17 14:32:38,935 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:39,863 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/inject/javax.inject/1/javax.inject-1.pom
+2013-05-17 14:32:39,867 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:40,587 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/inject/javax.inject/1/javax.inject-1.pom
+2013-05-17 14:32:40,590 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:40,602 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2013-05-17 14:32:40,603 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2013-05-17 14:32:40,615 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:42,020 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.pom
+2013-05-17 14:32:42,024 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:42,868 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.pom
+2013-05-17 14:32:42,869 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.pom
+2013-05-17 14:32:43,019 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:44,379 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.pom
+2013-05-17 14:32:44,382 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:45,630 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.pom
+2013-05-17 14:32:45,631 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.pom
+2013-05-17 14:32:45,777 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:46,680 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-kernel-parent/2.1.78/hk2-kernel-parent-2.1.78.pom
+2013-05-17 14:32:46,683 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:47,547 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-kernel-parent/2.1.78/hk2-kernel-parent-2.1.78.pom
+2013-05-17 14:32:47,548 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-kernel-parent/2.1.78/hk2-kernel-parent-2.1.78.pom
+2013-05-17 14:32:47,693 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:48,595 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.pom
+2013-05-17 14:32:48,598 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:49,354 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.pom
+2013-05-17 14:32:49,468 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.pom
+2013-05-17 14:32:49,609 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:50,531 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/2.1.78/external-2.1.78.pom
+2013-05-17 14:32:50,534 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:51,273 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/2.1.78/external-2.1.78.pom
+2013-05-17 14:32:51,273 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/2.1.78/external-2.1.78.pom
+2013-05-17 14:32:51,418 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:52,322 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.pom
+2013-05-17 14:32:52,326 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:53,078 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.pom
+2013-05-17 14:32:53,191 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.pom
+2013-05-17 14:32:53,336 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:54,239 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.pom
+2013-05-17 14:32:54,242 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:54,995 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.pom
+2013-05-17 14:32:55,141 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.pom
+2013-05-17 14:32:55,283 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:56,193 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.pom
+2013-05-17 14:32:56,196 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:56,963 [New I/O client worker #68-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.pom
+2013-05-17 14:32:56,964 [New I/O client worker #68-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.pom
+2013-05-17 14:32:57,127 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:58,025 [New I/O client worker #69-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.pom
+2013-05-17 14:32:58,028 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:58,754 [New I/O client worker #70-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.pom
+2013-05-17 14:32:58,757 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:58,826 [New I/O client worker #71-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.pom
+2013-05-17 14:32:58,827 [New I/O client worker #71-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.pom
+2013-05-17 14:32:58,966 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:32:59,862 [New I/O client worker #72-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.jar
+2013-05-17 14:32:59,867 [New I/O client worker #72-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.jar
+2013-05-17 14:32:59,868 [New I/O client worker #72-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2013-05-17 14:32:59,874 [New I/O client worker #72-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.jar
+2013-05-17 14:32:59,884 [New I/O client worker #72-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.jar
+2013-05-17 14:32:59,886 [New I/O client worker #72-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/inject/javax.inject/1/javax.inject-1.jar
+2013-05-17 14:32:59,888 [New I/O client worker #72-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.jar
+2013-05-17 14:32:59,890 [New I/O client worker #72-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.jar
+2013-05-17 14:32:59,890 [New I/O client worker #72-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.jar
+2013-05-17 14:32:59,891 [New I/O client worker #72-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.jar
+2013-05-17 14:32:59,896 [New I/O client worker #72-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.jar
+2013-05-17 14:32:59,898 [New I/O client worker #72-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.jar
+2013-05-17 14:32:59,903 [New I/O client worker #72-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.jar
+2013-05-17 14:32:59,906 [New I/O client worker #72-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.jar
+2013-05-17 14:32:59,936 [New I/O client worker #72-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://www.dropbox.com/sh/0zu87iodleu9kqc/eUy9Q2VkKC/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.jar
+2013-05-17 14:32:59,952 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:33:00,682 [New I/O client worker #73-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/inject/javax.inject/1/javax.inject-1.jar
+2013-05-17 14:33:00,715 [New I/O client worker #73-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2013-05-17 14:33:00,719 [New I/O client worker #73-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.jar
+2013-05-17 14:33:00,719 [New I/O client worker #73-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.jar
+2013-05-17 14:33:00,721 [New I/O client worker #73-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.jar
+2013-05-17 14:33:00,722 [New I/O client worker #73-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.jar
+2013-05-17 14:33:00,722 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.jar
+2013-05-17 14:33:00,734 [New I/O client worker #73-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.jar
+2013-05-17 14:33:00,738 [New I/O client worker #73-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.jar
+2013-05-17 14:33:00,747 [New I/O client worker #73-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.jar
+2013-05-17 14:33:00,752 [New I/O client worker #73-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.jar
+2013-05-17 14:33:00,753 [New I/O client worker #73-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.jar
+2013-05-17 14:33:00,756 [New I/O client worker #73-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.jar
+2013-05-17 14:33:00,772 [New I/O client worker #73-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.jar
+2013-05-17 14:33:00,869 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven.java.net/content/groups/public/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.jar
+2013-05-17 14:33:00,870 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.jar
+2013-05-17 14:33:01,061 [New I/O client worker #73-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.jar
+2013-05-17 14:33:01,176 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.jar
+2013-05-17 14:33:01,195 [New I/O client worker #73-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.jar
+2013-05-17 14:33:01,397 [New I/O client worker #73-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.jar
+2013-05-17 14:33:01,397 [New I/O client worker #73-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.jar
+2013-05-17 14:33:01,418 [New I/O client worker #73-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.jar
+2013-05-17 14:33:01,481 [New I/O client worker #73-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.jar
+2013-05-17 14:33:01,746 [New I/O client worker #73-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.jar
+2013-05-17 14:33:01,882 [New I/O client worker #73-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.jar
+2013-05-17 14:33:02,134 [New I/O client worker #73-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.jar
+2013-05-17 14:33:02,186 [New I/O client worker #73-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/groups/public/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.jar
+2013-05-17 14:33:03,584 [Worker-34] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-17 14:33:03,597 [New I/O client worker #74-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2013-05-17 14:33:03,597 [New I/O client worker #74-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2013-05-17 14:33:03,598 [New I/O client worker #74-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.jar
+2013-05-17 14:33:03,607 [New I/O client worker #74-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.jar
+2013-05-17 14:33:03,607 [New I/O client worker #74-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2013-05-17 14:33:03,611 [New I/O client worker #74-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2013-05-17 14:33:04,104 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:33:04,105 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:33:04,106 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:33:04,106 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:33:04,134 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-17 14:33:04,155 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:33:04,281 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/main/java
+2013-05-17 14:33:04,282 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/main/resources
+2013-05-17 14:33:04,282 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pe-webservice/src/test/java
+2013-05-17 14:33:04,282 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pe-webservice/src/test/resources
+2013-05-17 14:33:04,350 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-17 14:33:05,260 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:33:05,374 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:33:05,374 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:33:05,376 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:33:05,376 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:36:15,329 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:36:15,373 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:36:15,373 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:36:15,374 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:36:15,375 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:36:16,603 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:36:16,603 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:36:16,604 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:36:16,604 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:37:53,925 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gzeng.pe:pe-webservice:0.0.1-SNAPSHOT @ /home/gaoxiang/personal/git/pe-backend/pe-webservice/pom.xml.
+2013-05-17 14:37:54,216 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:37:54,217 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:37:54,219 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:37:54,219 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:37:55,401 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:37:55,401 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 14:37:55,403 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 14:37:55,403 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 15:30:53,844 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 15:30:53,844 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 15:30:53,845 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 15:30:53,845 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 15:31:29,494 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 15:31:29,495 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 15:31:29,496 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 15:31:29,497 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 15:31:52,802 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 15:31:52,803 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-17 15:31:52,805 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-17 15:31:52,805 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-20 08:04:35,288 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-20 08:04:35,289 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-05-20 08:04:35,290 [Worker-1001] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-05-20 08:04:35,290 [Worker-1001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

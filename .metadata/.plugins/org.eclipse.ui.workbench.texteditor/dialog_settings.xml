@@ -13,8 +13,13 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="scheddba" key="selection"/>
 		<list key="findhistory">
+			<item value="po"/>
+			<item value="scheddba"/>
+			<item value="&quot;"/>
+			<item value="pededba"/>
+			<item value="NUMBER"/>
 			<item value="BYTE"/>
 			<item value="VARCHAR2"/>
 			<item value="ACCESSCONTROLGROUP"/>

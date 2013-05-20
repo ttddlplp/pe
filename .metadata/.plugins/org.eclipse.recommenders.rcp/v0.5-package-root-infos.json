@@ -1,0 +1,977 @@
+[
+  {
+    "symbolicName": "concordion-1.4.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d4388d65ddcf8127313b76fe38ef420846ca59b0",
+    "jarFileModificationDate": "2013-01-26T19:29:18Z",
+    "location": "/home/gaoxiang/personal/concordion-kickstart/lib/concordion-1.4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jersey.jersey-server",
+    "version": {
+      "major": 1,
+      "minor": 17,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5aa1109d50d11e3f0dca3af7ba94448255443e2",
+    "jarFileModificationDate": "2013-05-17T14:13:39+01:00",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.api",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 78,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f941cd59d474487f9c81f3ff194de1574edfbb71",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/hk2-api/2.1.78/hk2-api-2.1.78.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gmbal-api-only",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "b023"
+    },
+    "jarFileFingerprint": "14f077191ad7ec73004ca58de2c90a2137f1d882",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/gmbal/gmbal-api-only/3.0.0-b023/gmbal-api-only-3.0.0-b023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.grizzly.grizzly-framework",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "b2"
+    },
+    "jarFileFingerprint": "27452981132203e3083954c38e5b7a46d5e6f224",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/grizzly/grizzly-framework/2.0.1-b2/grizzly-framework-2.0.1-b2-tests.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.utils",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 78,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6fee60494545117a70ee2f264aad8db1a6e7f4b6",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/hk2-utils/2.1.78/hk2-utils-2.1.78.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.grizzly.grizzly-framework",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "b2"
+    },
+    "jarFileFingerprint": "d258438408d9ff95dc0de2aab526ff351c057711",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/grizzly/grizzly-framework/2.0.1-b2/grizzly-framework-2.0.1-b2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.external.asm-all-repackaged",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 78,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b73b7c3581b9fef8ca60ed84f8fe18573f486355",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/external/asm-all-repackaged/2.1.78/asm-all-repackaged-2.1.78.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.javax.servlet",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12222fbf2168045bad25e08c7f91de7da25180a5",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/javax.servlet/3.0/javax.servlet-3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8e635ffaaf17870578cfe693d42a49b79d02dd7",
+    "jarFileModificationDate": "2013-03-05T00:44:38Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rhino.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aa388db043a1d201f8b1f1cb5c271190f2a8fc2a",
+    "jarFileModificationDate": "2013-04-23T15:09:03+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6c5641ed4fa5683ea3d9fd12e475b5b11a7867eb",
+    "jarFileModificationDate": "2013-03-05T00:44:38Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.jersey.jersey-server",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9ccc77d182b6abc36b6e87b6733631c3b30425d",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-server/1.6/jersey-server-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "management-api",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "b012"
+    },
+    "jarFileFingerprint": "707686d845faede060b79bdf018a25a469a611b4",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.grizzly.http-server",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "b2"
+    },
+    "jarFileFingerprint": "5c97f1e0a47a08fdaf04ac27284a1af02854a826",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/grizzly/grizzly-http-server/2.0.1-b2/grizzly-http-server-2.0.1-b2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b8c1a6e7c21dc5f5e31735121914b384e1b514cc",
+    "jarFileModificationDate": "2013-04-23T15:02:45+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "junit-3.8.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99129f16442844f6a4a11ae22fbbee40b14d774f",
+    "jarFileModificationDate": "2013-01-09T12:32:43Z",
+    "location": "/home/gaoxiang/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.jersey.containers.jersey-container-servlet-core",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "rc1"
+    },
+    "jarFileFingerprint": "e6f47c961d8febad4b66a45601110727df2dbfdc",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.0-rc1/jersey-container-servlet-core-2.0-rc1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-1.3.03",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3845d5aabd62dc1954f2c0e84a799068c917ad2b",
+    "jarFileModificationDate": "2013-03-06T10:51:41Z",
+    "location": "/home/gaoxiang/.m2/repository/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f96456ca233dec780aa224bff076d8e8bca3908",
+    "jarFileModificationDate": "2013-03-06T12:08:28Z",
+    "location": "/home/gaoxiang/.m2/repository/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.external.cglib",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 78,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a98e7e6efb2774bcaa9cfb144e13389d659abb40",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/external/cglib/2.1.78/cglib-2.1.78.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4593ea2c37ca4e9e9fe87a45917e30973709662b",
+    "jarFileModificationDate": "2013-04-23T15:04:31+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.glassfish.grizzly.http",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "b2"
+    },
+    "jarFileFingerprint": "08665527aa0455e04dea8d2bc5c8bf4ebd41742f",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/grizzly/grizzly-http/2.0.1-b2/grizzly-http-2.0.1-b2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "544f88bd29597f4b959b858d2be534d576a40869",
+    "jarFileModificationDate": "2013-04-23T15:03:14+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "eb7e7ac05547b917dc8fb8d88c0c26363de62c99",
+    "jarFileModificationDate": "2013-04-23T15:05:00+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.hamcrest.hamcrest-core",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "860340562250678d1a344907ac75754e259cdb14",
+    "jarFileModificationDate": "2013-01-09T12:32:40Z",
+    "location": "/home/gaoxiang/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.ws.rs.javax.ws.rs-api",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "rc3"
+    },
+    "jarFileFingerprint": "57acb17f19854a4585ff7b23b1e36c8780399356",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/javax/ws/rs/javax.ws.rs-api/2.0-rc3/javax.ws.rs-api-2.0-rc3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.10",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e4f1766ce7404a08f45d859fb9c226fc9e41a861",
+    "jarFileModificationDate": "2013-01-09T12:32:40Z",
+    "location": "/home/gaoxiang/.m2/repository/junit/junit/4.10/junit-4.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "nu.xom",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": "osgi"
+    },
+    "jarFileFingerprint": "4166493b9f04e91b858ba4150b28b4d197f8f8ea",
+    "jarFileModificationDate": "2012-07-25T14:53:56+01:00",
+    "location": "/home/gaoxiang/personal/concordion-kickstart/lib/xom-1.2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jersey.jersey-client",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e605f9034c5bdf115d311001b60b1627f16c523e",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-client/1.6/jersey-client-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "934d89a50680b86e2977aaec2a93aad8ae51c129",
+    "jarFileModificationDate": "2013-04-23T15:06:44+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ognl-2.6.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fad9692184899994e977b647998f9fa4a9cfec35",
+    "jarFileModificationDate": "2012-07-25T14:53:56+01:00",
+    "location": "/home/gaoxiang/personal/concordion-kickstart/lib/ognl-2.6.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jersey.grizzly2",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9a0e6669d564f1a3b8ca73f3f12b47fc7151d952",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-grizzly2/1.6/jersey-grizzly2-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.validation.api",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "CR3"
+    },
+    "jarFileFingerprint": "34c292cb75ae735a23451b598cf0eeca64aa9076",
+    "jarFileModificationDate": "2013-05-17T14:33:03+01:00",
+    "location": "/home/gaoxiang/.m2/repository/javax/validation/validation-api/1.1.0.CR3/validation-api-1.1.0.CR3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.grizzly.http-servlet",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "b2"
+    },
+    "jarFileFingerprint": "257b15ec16cd61722f7e8d4e3ae42e2a8143618d",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/grizzly/grizzly-http-servlet/2.0.1-b2/grizzly-http-servlet-2.0.1-b2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6f0e1272895f9c8235788c234e9c9b48279020ce",
+    "jarFileModificationDate": "2013-03-05T00:39:45Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 14,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "67b7be4ee7ba48e4828a42d6d5069761186d4a53",
+    "jarFileModificationDate": "2013-03-21T15:24:26Z",
+    "location": "/home/gaoxiang/.m2/repository/com/google/guava/guava/14.0/guava-14.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "asm-3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c157def142714c544bdea2e6144645702adf7097",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/asm/asm/3.1/asm-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.locator",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 78,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40b9c8c412e9e80fa529d304f19afc3047c79453",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/hk2-locator/2.1.78/hk2-locator-2.1.78.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.inject-1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6975da39a7040257bd51d21a231b76c915872d38",
+    "jarFileModificationDate": "2013-05-17T14:33:03+01:00",
+    "location": "/home/gaoxiang/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jersey.client",
+    "version": {
+      "major": 1,
+      "minor": 17,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2496bd961e09b4863d93588840c63f4d7b18a022",
+    "jarFileModificationDate": "2013-05-17T13:36:58+01:00",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-client/1.17/jersey-client-1.17.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e5f4ee74bf056afd481453da5a6f4d16207cfd4c",
+    "jarFileModificationDate": "2013-03-05T00:44:38Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.jersey.client",
+    "version": {
+      "major": 1,
+      "minor": 17,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b92fb0f202ca548f9067d57a133635fc1b8ad0ff",
+    "jarFileModificationDate": "2013-05-17T14:15:15+01:00",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.annotation-api",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 99,
+      "qualifier": "b02"
+    },
+    "jarFileFingerprint": "2bbada14ca9008e3b3c1811e985952b644a9e1c0",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/javax/annotation/javax.annotation-api/1.2-b02/javax.annotation-api-1.2-b02.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.jersey.core.jersey-client",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "rc1"
+    },
+    "jarFileFingerprint": "5bb1fba9c9bec3fce70d9e5948ec455afee5cf33",
+    "jarFileModificationDate": "2013-05-17T14:33:01+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/jersey/core/jersey-client/2.0-rc1/jersey-client-2.0-rc1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c171c2b7c424fc97d3cc6c0f42ac000d91ea660",
+    "jarFileModificationDate": "2013-04-23T15:09:03+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.jersey.jersey-test-framework.jersey-test-framework-grizzly2",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58b00329c06c1f5d7a13a5cec2cbdaffcf66122c",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-test-framework/jersey-test-framework-grizzly2/1.6/jersey-test-framework-grizzly2-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1090175837308811bb8bb8907f7ff90533a1cc2a",
+    "jarFileModificationDate": "2012-01-22T23:44:05Z",
+    "location": "/usr/share/java/java-atk-wrapper.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.concordion.concordion",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "08aa5213678a7d383fe48293125df6824afb55f9",
+    "jarFileModificationDate": "2013-03-06T10:51:41Z",
+    "location": "/home/gaoxiang/.m2/repository/org/concordion/concordion/1.4.3/concordion-1.4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cba2a9e48a328feabe9bef29149c9bc3309fc722",
+    "jarFileModificationDate": "2013-03-05T00:40:45Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4157dfb651d566baebc30f7b292573c57a3cd969",
+    "jarFileModificationDate": "2013-03-05T00:34:46Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7193084a5fc947922dd55a3d37afd20be1662194",
+    "jarFileModificationDate": "2013-04-23T15:03:11+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "hamcrest-core-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42a25dc3219429f0e5d060061f71acb49bf010a0",
+    "jarFileModificationDate": "2013-01-26T19:42:50Z",
+    "location": "/home/gaoxiang/personal/concordion-kickstart/lib/hamcrest-core-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.11",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4e031bb61df09069aeb2bffb4019e7a5034a4ee0",
+    "jarFileModificationDate": "2013-01-26T19:42:50Z",
+    "location": "/home/gaoxiang/personal/concordion-kickstart/lib/junit-4.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "15be75dc60f50a4561efe5ce6bf5debbc26b720d",
+    "jarFileModificationDate": "2013-04-23T15:03:04+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.jersey.core",
+    "version": {
+      "major": 1,
+      "minor": 17,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7f73259ad9cf7be225f2a42bd4fe72f34ff9b65c",
+    "jarFileModificationDate": "2013-05-17T14:15:45+01:00",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.osgi-resource-locator",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4ed2b2d4738aed5786cfa64cba5a332779c4c708",
+    "jarFileModificationDate": "2013-05-17T14:33:03+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "nu.xom",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": "osgi"
+    },
+    "jarFileFingerprint": "4166493b9f04e91b858ba4150b28b4d197f8f8ea",
+    "jarFileModificationDate": "2013-03-06T10:51:41Z",
+    "location": "/home/gaoxiang/.m2/repository/xom/xom/1.2.5/xom-1.2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7771c608896f4aae6c0db0b2f2594dfc55980d72",
+    "jarFileModificationDate": "2013-03-05T00:39:49Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.jersey.jersey-test-framework.jersey-test-framework-core",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "37428364ce38139fcd5f5e0515752b2b90f6ee56",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-test-framework/jersey-test-framework-core/1.6/jersey-test-framework-core-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "59ab5149f71890b80d2f1ad052861d72777d61f7",
+    "jarFileModificationDate": "2013-03-05T00:39:32Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.glassfish.grizzly.rcm",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "b2"
+    },
+    "jarFileFingerprint": "9a06d62aecc0bb9f1fea353f11a03a58ceb69280",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/grizzly/grizzly-rcm/2.0.1-b2/grizzly-rcm-2.0.1-b2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.jersey.core.jersey-server",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "rc1"
+    },
+    "jarFileFingerprint": "b9e91efee613237ca964d422ceae6bfc71416879",
+    "jarFileModificationDate": "2013-05-17T14:33:02+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/jersey/core/jersey-server/2.0-rc1/jersey-server-2.0-rc1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "868c0792233fc78d8c9bac29ac79ade988301318",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/org/apache/xercesImpl/2.9.0/xercesImpl-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6a150bd4d0c01f5d16f0ab45005619bda4d658f9",
+    "jarFileModificationDate": "2013-04-23T14:53:51+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/pulse-java.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e9118caf7e971a9d3340d28e64751ccad5dceff5",
+    "jarFileModificationDate": "2013-03-05T00:41:00Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5b8fbb9bf0e77cf77cabecb80675ce9766ae9702",
+    "jarFileModificationDate": "2013-04-23T15:09:03+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3c57dbad445188863826d1af03fab87267dcee4",
+    "jarFileModificationDate": "2013-03-05T00:30:46Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-common/jre/lib/ext/pulse-java.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ognl-2.6.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fad9692184899994e977b647998f9fa4a9cfec35",
+    "jarFileModificationDate": "2013-03-06T10:51:41Z",
+    "location": "/home/gaoxiang/.m2/repository/ognl/ognl/2.6.9/ognl-2.6.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5b4cb82ac987c62142610e89d74f40038e9a84cb",
+    "jarFileModificationDate": "2013-03-05T00:40:49Z",
+    "location": "/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.sun.jersey.jersey-core",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0a882e6220e5e7810880427b4590b5064f20d76a",
+    "jarFileModificationDate": "2013-01-17T16:08:13Z",
+    "location": "/home/gaoxiang/.m2/repository/com/sun/jersey/jersey-core/1.6/jersey-core-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.hk2.external.javax.inject",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 78,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "831bee0d9421e430c088a68a00df5f74f56f185c",
+    "jarFileModificationDate": "2013-05-17T14:33:00+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/hk2/external/javax.inject/2.1.78/javax.inject-2.1.78.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mockito.mockito-all",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c97d8b6e715ed941aeb93d6fc401ab3eb18a566",
+    "jarFileModificationDate": "2013-01-09T12:35:42Z",
+    "location": "/home/gaoxiang/.m2/repository/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.glassfish.jersey.core.jersey-common",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "rc1"
+    },
+    "jarFileFingerprint": "bba1a386214185da7ab705d95628bc8170585d83",
+    "jarFileModificationDate": "2013-05-17T14:33:02+01:00",
+    "location": "/home/gaoxiang/.m2/repository/org/glassfish/jersey/core/jersey-common/2.0-rc1/jersey-common-2.0-rc1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da26f55bd2997b2343817790b2a4672b261a1630",
+    "jarFileModificationDate": "2013-04-23T15:02:55+01:00",
+    "location": "/usr/lib/jvm/java-7-openjdk-common/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  }
+]

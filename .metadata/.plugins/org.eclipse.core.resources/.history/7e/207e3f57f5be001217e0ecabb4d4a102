@@ -1,0 +1,7 @@
+package com.gzeng.pe.backend.webservice;
+
+import com.sun.jersey.spi.container.servlet.ServletContainer;
+
+public class WSServletContainer extends ServletContainer {
+
+}

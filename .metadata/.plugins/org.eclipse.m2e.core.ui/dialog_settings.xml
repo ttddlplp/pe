@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="MavenProjectWizardArchetypePage">
+		<item value="nexusIndexer" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -23,6 +24,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/gaoxiang/personal/git/pe-backend"/>
+			<item value="/home/gaoxiang/personal/git/pe_backend"/>
+			<item value="/home/gaoxiang/personal/git/pe"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -52,6 +56,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/gaoxiang/personal/git/pe-backend/pe-webservice"/>
 			<item value="/home/gaoxiang/personal/git/db/pebedba-schema"/>
 			<item value="/home/gaoxiang/personal/git/db/pe-schema-common"/>
 		</list>
@@ -68,8 +73,10 @@
 			<item value="com.gzeng.pe"/>
 		</list>
 		<list key="name">
+			<item value="pe webservice"/>
 		</list>
 		<list key="artifactId">
+			<item value="pe-webservice"/>
 			<item value="pebedba-schema"/>
 			<item value="schema-common"/>
 		</list>

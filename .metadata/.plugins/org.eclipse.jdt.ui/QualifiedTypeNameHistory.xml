@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.gzeng.pe.backend.webservice.HelloWorld"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.servlet.ServletContainer"/>
+<fullyQualifiedTypeName name="com.sun.jersey.spi.container.servlet.ServletContainer"/>
+<fullyQualifiedTypeName name="com.sun.jersey.api.core.ResourceConfig"/>
+<fullyQualifiedTypeName name="com.sun.jersey.spi.container.WebApplication"/>
+</qualifiedTypeNameHistroy>
