@@ -1,7 +1,0 @@
-package com.gzeng.pe.backend.webservice;
-
-import com.sun.jersey.spi.container.*;
-
-public class WSServletContainer extends ServletContainer {
-
-}
