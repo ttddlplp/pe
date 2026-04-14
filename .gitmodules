@@ -1,0 +1,4 @@
+[submodule "telegram-ios"]
+	path = telegram-ios
+	url = https://github.com/ttddlplp/Telegram-iOS.git
+	branch = gmall/main
